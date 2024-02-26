@@ -1,0 +1,14 @@
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\DadosCliente\obj\Debug\net8.0\DadosCliente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\DadosCliente\obj\Debug\net8.0\DadosCliente.AssemblyInfoInputs.cache
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\DadosCliente\obj\Debug\net8.0\DadosCliente.AssemblyInfo.cs
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\DadosCliente\obj\Debug\net8.0\DadosCliente.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\DadosCliente\bin\Debug\net8.0\DadosCliente.exe
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\DadosCliente\bin\Debug\net8.0\DadosCliente.deps.json
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\DadosCliente\bin\Debug\net8.0\DadosCliente.runtimeconfig.json
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\DadosCliente\bin\Debug\net8.0\DadosCliente.dll
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\DadosCliente\bin\Debug\net8.0\DadosCliente.pdb
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\DadosCliente\obj\Debug\net8.0\DadosCliente.dll
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\DadosCliente\obj\Debug\net8.0\refint\DadosCliente.dll
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\DadosCliente\obj\Debug\net8.0\DadosCliente.pdb
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\DadosCliente\obj\Debug\net8.0\DadosCliente.genruntimeconfig.cache
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\DadosCliente\obj\Debug\net8.0\ref\DadosCliente.dll

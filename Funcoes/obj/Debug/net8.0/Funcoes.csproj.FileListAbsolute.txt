@@ -1,0 +1,14 @@
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\Funcoes\obj\Debug\net8.0\Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfoInputs.cache
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\Funcoes\obj\Debug\net8.0\Funcoes.AssemblyInfo.cs
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\Funcoes\obj\Debug\net8.0\Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\Funcoes\bin\Debug\net8.0\Funcoes.exe
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\Funcoes\bin\Debug\net8.0\Funcoes.deps.json
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\Funcoes\bin\Debug\net8.0\Funcoes.runtimeconfig.json
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\Funcoes\bin\Debug\net8.0\Funcoes.dll
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\Funcoes\bin\Debug\net8.0\Funcoes.pdb
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\Funcoes\obj\Debug\net8.0\Funcoes.dll
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\Funcoes\obj\Debug\net8.0\refint\Funcoes.dll
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\Funcoes\obj\Debug\net8.0\Funcoes.pdb
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\Funcoes\obj\Debug\net8.0\Funcoes.genruntimeconfig.cache
+C:\Users\Cliente\Documents\Projetos\cSharpCurso\Funcoes\obj\Debug\net8.0\ref\Funcoes.dll

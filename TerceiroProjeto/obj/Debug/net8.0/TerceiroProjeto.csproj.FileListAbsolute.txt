@@ -1,0 +1,14 @@
+C:\Users\Cliente\Documents\Projetos\C#\TerceiroProjeto\bin\Debug\net8.0\TerceiroProjeto.exe
+C:\Users\Cliente\Documents\Projetos\C#\TerceiroProjeto\bin\Debug\net8.0\TerceiroProjeto.deps.json
+C:\Users\Cliente\Documents\Projetos\C#\TerceiroProjeto\bin\Debug\net8.0\TerceiroProjeto.runtimeconfig.json
+C:\Users\Cliente\Documents\Projetos\C#\TerceiroProjeto\bin\Debug\net8.0\TerceiroProjeto.dll
+C:\Users\Cliente\Documents\Projetos\C#\TerceiroProjeto\bin\Debug\net8.0\TerceiroProjeto.pdb
+C:\Users\Cliente\Documents\Projetos\C#\TerceiroProjeto\obj\Debug\net8.0\TerceiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cliente\Documents\Projetos\C#\TerceiroProjeto\obj\Debug\net8.0\TerceiroProjeto.AssemblyInfoInputs.cache
+C:\Users\Cliente\Documents\Projetos\C#\TerceiroProjeto\obj\Debug\net8.0\TerceiroProjeto.AssemblyInfo.cs
+C:\Users\Cliente\Documents\Projetos\C#\TerceiroProjeto\obj\Debug\net8.0\TerceiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\Cliente\Documents\Projetos\C#\TerceiroProjeto\obj\Debug\net8.0\TerceiroProjeto.dll
+C:\Users\Cliente\Documents\Projetos\C#\TerceiroProjeto\obj\Debug\net8.0\refint\TerceiroProjeto.dll
+C:\Users\Cliente\Documents\Projetos\C#\TerceiroProjeto\obj\Debug\net8.0\TerceiroProjeto.pdb
+C:\Users\Cliente\Documents\Projetos\C#\TerceiroProjeto\obj\Debug\net8.0\TerceiroProjeto.genruntimeconfig.cache
+C:\Users\Cliente\Documents\Projetos\C#\TerceiroProjeto\obj\Debug\net8.0\ref\TerceiroProjeto.dll
