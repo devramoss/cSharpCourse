@@ -1,0 +1,15 @@
+/workspaces/cSharpCourse/Vetores/obj/Debug/net8.0/Vetores.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharpCourse/Vetores/obj/Debug/net8.0/Vetores.AssemblyInfoInputs.cache
+/workspaces/cSharpCourse/Vetores/obj/Debug/net8.0/Vetores.AssemblyInfo.cs
+/workspaces/cSharpCourse/Vetores/obj/Debug/net8.0/Vetores.csproj.CoreCompileInputs.cache
+/workspaces/cSharpCourse/Vetores/obj/Debug/net8.0/Vetores.sourcelink.json
+/workspaces/cSharpCourse/Vetores/bin/Debug/net8.0/Vetores
+/workspaces/cSharpCourse/Vetores/bin/Debug/net8.0/Vetores.deps.json
+/workspaces/cSharpCourse/Vetores/bin/Debug/net8.0/Vetores.runtimeconfig.json
+/workspaces/cSharpCourse/Vetores/bin/Debug/net8.0/Vetores.dll
+/workspaces/cSharpCourse/Vetores/bin/Debug/net8.0/Vetores.pdb
+/workspaces/cSharpCourse/Vetores/obj/Debug/net8.0/Vetores.dll
+/workspaces/cSharpCourse/Vetores/obj/Debug/net8.0/refint/Vetores.dll
+/workspaces/cSharpCourse/Vetores/obj/Debug/net8.0/Vetores.pdb
+/workspaces/cSharpCourse/Vetores/obj/Debug/net8.0/Vetores.genruntimeconfig.cache
+/workspaces/cSharpCourse/Vetores/obj/Debug/net8.0/ref/Vetores.dll
