@@ -1,0 +1,15 @@
+/workspaces/cSharpCourse/ModificadoresParametros/obj/Debug/net8.0/ModificadoresParametros.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/cSharpCourse/ModificadoresParametros/obj/Debug/net8.0/ModificadoresParametros.AssemblyInfoInputs.cache
+/workspaces/cSharpCourse/ModificadoresParametros/obj/Debug/net8.0/ModificadoresParametros.AssemblyInfo.cs
+/workspaces/cSharpCourse/ModificadoresParametros/obj/Debug/net8.0/ModificadoresParametros.csproj.CoreCompileInputs.cache
+/workspaces/cSharpCourse/ModificadoresParametros/obj/Debug/net8.0/ModificadoresParametros.sourcelink.json
+/workspaces/cSharpCourse/ModificadoresParametros/bin/Debug/net8.0/ModificadoresParametros
+/workspaces/cSharpCourse/ModificadoresParametros/bin/Debug/net8.0/ModificadoresParametros.deps.json
+/workspaces/cSharpCourse/ModificadoresParametros/bin/Debug/net8.0/ModificadoresParametros.runtimeconfig.json
+/workspaces/cSharpCourse/ModificadoresParametros/bin/Debug/net8.0/ModificadoresParametros.dll
+/workspaces/cSharpCourse/ModificadoresParametros/bin/Debug/net8.0/ModificadoresParametros.pdb
+/workspaces/cSharpCourse/ModificadoresParametros/obj/Debug/net8.0/ModificadoresParametros.dll
+/workspaces/cSharpCourse/ModificadoresParametros/obj/Debug/net8.0/refint/ModificadoresParametros.dll
+/workspaces/cSharpCourse/ModificadoresParametros/obj/Debug/net8.0/ModificadoresParametros.pdb
+/workspaces/cSharpCourse/ModificadoresParametros/obj/Debug/net8.0/ModificadoresParametros.genruntimeconfig.cache
+/workspaces/cSharpCourse/ModificadoresParametros/obj/Debug/net8.0/ref/ModificadoresParametros.dll
